@@ -7,3 +7,10 @@ sort
 search
 	1. traversal search
 	2. binary search
+dfs
+	1. full_permutitions 全排列
+list
+	1. slist.c  单向list
+	2. dlist.c  双向list
+	3. srlist.c 单向循环list
+	4. drlist.c 双向循环list
